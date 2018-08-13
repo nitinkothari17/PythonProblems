@@ -12,4 +12,4 @@ for i in range(length):
   d1 +=  a[i][i]
   d2 +=  a[i][length-i-1]
   
-print (diagonal_sum_1,diagonal_sum_2)
+print (d1,d2)
